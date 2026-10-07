@@ -239,4 +239,4 @@ To run roughly **1,800 queries per day** (about 20 clients × 90 queries each):
 
 ## Contributing & License
 
-Issues and pull requests are welcome. Add a `LICENSE` file of your choice (e.g., MIT) before sharing publicly.
+Issues and pull requests are welcome.
